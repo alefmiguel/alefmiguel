@@ -15,7 +15,7 @@
   <img align="center" alt="Alef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alef-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alef-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <i class="devicon-css3-plain-wordmark"></i>     
+  <i align="right" alt="Alef-pic" height="30" width="40" class="devicon-css3-plain-wordmark"></i>     
 </div>
   
   ##
