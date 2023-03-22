@@ -1,4 +1,7 @@
 ## Opaa, eu sou a Álef Miguel, amante de tecnologia!
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  
 <div align="center">
   <a href="https://github.com/alefmiguel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefmiguel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +15,7 @@
   <img align="center" alt="Alef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alef-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alef-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Alef-pic" height="150" style="border-radius:50px;" src="https://img.icons8.com/ios/50/000000/macbook.png">
+  <i class="devicon-css3-plain-wordmark"></i>     
 </div>
   
   ##
